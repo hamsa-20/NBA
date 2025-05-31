@@ -9,6 +9,8 @@ Game Schedule - Upcoming and past game schedules
 Responsive Design - Works perfectly on desktop and mobile
 Multiple API Options - Flexible API integration with fallback options
 
+# Live:https://nba-fqlj.onrender.com/
+
 # Prerequisites
 
 Node.js (v14 or higher)
