@@ -36,8 +36,8 @@ git clone <your-repo-url>
 cd nba-app
 
 # Install dependencies
-npm install
-npm start
+npm install,
+npm start,
 npm run dev
 
 # Add your API configuration
