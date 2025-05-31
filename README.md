@@ -43,10 +43,6 @@ npm run dev
 # Add your API configuration
  .env
 
-Start the application
-
-# Development mode
+# Start the application
 npm run dev
 
-# Production mode
-npm start
