@@ -9,7 +9,7 @@ Game Schedule - Upcoming and past game schedules
 Responsive Design - Works perfectly on desktop and mobile
 Multiple API Options - Flexible API integration with fallback options
 
-📋 Prerequisites
+# Prerequisites
 
 Node.js (v14 or higher)
 npm or yarn package manager
@@ -17,8 +17,8 @@ API key (for production use)
 
 
 
-🌐 API Options & Setup
-🏆 Option 1: RapidAPI - API-NBA (Recommended)
+# API Options & Setup
+# RapidAPI - API-NBA (Recommended)
 Best for production use with reliable data and rate limits
 Setup:
 
@@ -30,29 +30,23 @@ Base URL: https://api-nba-v1.p.rapidapi.com
 
 🛠️ Installation
 
-Clone the repository
+# Clone the repository
 
-bashgit clone <your-repo-url>
+git clone <your-repo-url>
 cd nba-app
 
-Install dependencies
-
-bashnpm install
-
-Environment Setup
-
-bash# Copy environment template
-cp .env.example .env
+# Install dependencies
+npm install
+npm start
+npm run dev
 
 # Add your API configuration
-nano .env
+ .env
 
 Start the application
 
-bash# Development mode
+# Development mode
 npm run dev
 
 # Production mode
 npm start
-🔧 Environment Configuration
-Create a .env file in the root directory:
