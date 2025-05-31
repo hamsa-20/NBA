@@ -28,7 +28,7 @@ Visit API-NBA on RapidAPI
 Copy your API key
 Add to .env: NBA_API_KEY=your_key_here
 
-Base URL: https://api-nba-v1.p.rapidapi.com
+Base URL:(https://rapidapi.com/api-sports/api/api-nba)
 
 🛠️ Installation
 
